@@ -29,7 +29,7 @@ To get started with the weather dashboard, follow these steps:
 ## Usage
 
 Enter the name of the city in the search box and press the search button to utilize the weather dashboard. The program will show the current weather conditions for that city along with the date, the name of the city, an icon for the weather, and the current temperature, humidity, and wind speed.
-
+https://chris70a.github.io/Aurora-Weather/
 ## Credits
 Special thanks to OpenWeather API for providing the weather data used in this application.
 
