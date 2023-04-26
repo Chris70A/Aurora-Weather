@@ -12,3 +12,9 @@ header{
     margin-top: 0;
 }
 
+.forecastBox{
+    position: relative;
+    width: 25%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
